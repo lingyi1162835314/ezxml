@@ -3,7 +3,7 @@ description: 轻量级的C语言xml解析库
 keywords:                                      # 多标签
   - base
   - xml
-author:
+author: sadasd
 license: MIT                    # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
 
 homepage: http://ezxml.sourceforge.net/

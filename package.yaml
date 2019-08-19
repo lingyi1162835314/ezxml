@@ -1,9 +1,8 @@
-name: ezxml
+name: 张玉洁的组件-51
 description: 轻量级的C语言xml解析库111
 keywords:                                      # 多标签
   - base
   - xml
-author: sadasd
 license: MIT                    # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
 
 homepage: http://ezxml.sourceforge.net/

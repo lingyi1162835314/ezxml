@@ -1,6 +1,6 @@
 # 介绍
 
-ezXML是一个用于解析XML文档的C库，其灵感来自PHP的simpleXML。它是解析XML配置文件或REST web服务响应的理想工具，其运行快速，同时编译量小于20k。
+ezXML是一个用于解析XML文档的C库，其灵感来自PHP的simpleXML。它是解析XML配置文件或REST web服务响应的理想工具，其运行快速，同时编译量小于20k。11111
 
 # 示例
 
